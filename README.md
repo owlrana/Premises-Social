@@ -1,4 +1,4 @@
 # Premises-Social
 Premises to hang out. Share thoughts.
 
-[`#hacktoberfest`](#hacktoberfest)
+Workable version 0.6. Most features are working. Needs work on UI UX.
